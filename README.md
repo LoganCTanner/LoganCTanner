@@ -26,7 +26,7 @@
 
 - 🔨 Building next: **Portfolio Website || Life UI**
 
-- 🤝 Looking to collaborate on projects, from software engineering to content creation
+- 🤝 Looking to collaborate on projects, from engineering to content 
 
 - 💬 Chat with me about: **Fusion, Astronautics, Software, Science Communication**
 
