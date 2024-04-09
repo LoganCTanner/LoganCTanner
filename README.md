@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Logan 🖖 🙂</h1>
 <h3 align="center">Junior Software Engineer, Nuclear Fusion Engineering Student</h3>
-<h4 align="center">Reclaiming work stolen by AI, one ticket at a time</h4>
+<h4 align="center">reclaiming work stolen by AI, one ticket at a time</h4>
 
 <!--
 <p align="left"><img src="{put selfie/artistic portrait here}" alt="LoganCTanner" /></p>
