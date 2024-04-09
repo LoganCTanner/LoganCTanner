@@ -93,7 +93,7 @@
   </a>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
     <img 
-      src="https://www.svgrepo.com/show/342328/unreal-engine.svg" 
+      src="https://www.nicepng.com/png/full/321-3211558_unreal-logo-png-for-kids-unreal-engine-icon.png" 
       alt="Unreal Engine" 
       width="40" 
       height="auto" 
