@@ -65,8 +65,8 @@
 <p>
     <img 
       align="center" 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=jeromehardaway&" 
-      alt="jeromehardaway" 
+      src="https://github-readme-streak-stats.herokuapp.com/?user=LoganCTanner&" 
+      alt="LoganCTanner" 
     />
 </p>
 
