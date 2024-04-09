@@ -61,7 +61,7 @@
     rel="noreferrer"
   >
     <img 
-      src="https://icons8.com/icon/pnSwLUOYUC7j/bouclier" 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" 
       alt="JavaScript" 
       width="40" 
       height="auto" 
@@ -93,7 +93,7 @@
   </a>
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
     <img 
-      src="https://icon-library.com/icon/unreal-engine-icon-27.html.html" 
+      src="https://www.svgrepo.com/show/342328/unreal-engine.svg" 
       alt="Unreal Engine" 
       width="40" 
       height="auto" 
