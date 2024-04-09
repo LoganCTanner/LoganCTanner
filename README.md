@@ -20,11 +20,11 @@
   environments, and to increase the quality of life, for all life.
 </p>
 
-- 🔨 Currently building: **Optimal Encounters Pokedex**
+- 👷‍♂️ Currently building: **Optimal Encounters Pokedex**
 
 - 🧠 Currently learning: **Chemistry, Calculus, Front End Web Development**
 
-- 🪚 Building next: **Portfolio Website || Life UI**
+- 🔨 Building next: **Portfolio Website || Life UI**
 
 - 🤝 Looking to collaborate on projects, from software engineering to content creation
 
