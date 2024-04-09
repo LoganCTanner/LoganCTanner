@@ -75,6 +75,14 @@
       height="auto" 
     />
   </a>
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" 
+      alt="SQLite" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img 
       src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
@@ -164,14 +172,7 @@
       height="auto" 
     />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img 
-      src="" 
-      alt="" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
+  
   
 </p>
 
