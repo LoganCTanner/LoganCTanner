@@ -39,9 +39,140 @@
       height="auto" 
     />
   </a>
-  <a href="" target="_blank" rel="noreferrer">
-    <img src="" alt="" width="40" height="40" />
+  <a href="https://html.spec.whatwg.org" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" 
+      alt="Hyper Text Markup Language 5" 
+      width="40" 
+      height="auto" 
+    />
   </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Typescript.svg" 
+      alt="TypeScript" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a 
+    href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" 
+    target="_blank" 
+    rel="noreferrer"
+  >
+    <img 
+      src="https://icons8.com/icon/pnSwLUOYUC7j/bouclier" 
+      alt="JavaScript" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" 
+      alt="Cascading Style Sheets 3" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
+      alt="C++" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+      alt="Python" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
+    <img 
+      src="https://icon-library.com/icon/unreal-engine-icon-27.html.html" 
+      alt="Unreal Engine" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://octave.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" 
+      alt="Octave" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1005px-Matlab_Logo.png" 
+      alt="MATLAB" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://clipground.com/images/latex-png-10.png" 
+      alt="LaTeX" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.gimp.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" 
+      alt="GNU Image Manipulation Program" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" 
+      alt="Davinci Resolve" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a 
+    href="https://obsproject.com/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" 
+      alt="Open Broadcaster Software" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" 
+      alt="Visual Studio Code" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" 
+      alt="neovim" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="" target="_blank" rel="noreferrer">
+    <img 
+      src="" 
+      alt="" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  
 </p>
 
 
