@@ -21,9 +21,13 @@
 </p>
 
 - 🔨 Currently building: **Optimal Encounters Pokedex**
+
 - 🧠 Currently learning: **Chemistry, Calculus, Front End Web Development**
+
 - 🪚 Building next: **Portfolio Website || Life UI**
+
 - 🤝 Looking to collaborate on projects, from software engineering to content creation
+
 - 💬 Chat with me about: **Fusion, Astronautics, Software, Science Communication**
 
 <p align="left">
