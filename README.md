@@ -24,7 +24,7 @@
 
 - 🧠 Fall Semester Classes: **Quantum Computing, Intro to Plasmas and Fusion, Physics: Waves, Heat, Optics**
 
-- 🔨 Building next: **Lectures: Algebra, Chemistry, Physics && Untitled Satirical Math Textbook && Astronautical Fusion Reacotr**
+- 🔨 Building next: **Lectures: Algebra, Chemistry, Physics && Untitled Satirical Math Textbook && Astronautical Fusion Reactor**
 
 - 🤝 Looking to collaborate on: **Science Communication, Game Development, and Foreign Intelligence Secrets[^1]**
 [^1]:(i swear I won't tell anyone)
