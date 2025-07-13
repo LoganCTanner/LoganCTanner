@@ -16,7 +16,7 @@
   content creator on all your favorite social media platforms. I have a deep love and appreciation for 
   combining analytical thinking with emotional intuition to create unique experiences, solving complex
   problems, and continuing on the never ending journey of education. My long term goals are centered on 
-  clean, cost efficient energy to under developed communities, automating heavy industry in astronautical 
+  providing clean, cost efficient energy to under developed communities, automating heavy industry in astronautical 
   environments, and increasing the quality of life, for all life.
 </p>
 
@@ -26,7 +26,9 @@
 
 - 🔨 Building next: **Lectures: Algebra, Chemistry, Physics && Untitled Satirical Math Textbook && Astronautical Fusion Reacotr**
 
-- 🤝 Looking to collaborate on: **Science Communication, Game Development, and Foreign Intelligence Secrets** (i swear I won't tell anyone)
+- 🤝 Looking to collaborate on: **Science Communication, Game Development, and Foreign Intelligence Secrets[^1]**
+[^1]:(i swear I won't tell anyone)
+
 
 - 💬 Chat with me about: **Fusion, Astronautics, Software, Science Communication**
 
@@ -205,7 +207,7 @@
   />
 </p>
 
-
+<br />
 
 
 
