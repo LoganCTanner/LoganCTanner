@@ -26,7 +26,7 @@
 
 - 🔨 Building next: **Lectures: Algebra, Chemistry, Physics && Untitled Satirical Math Textbook && Astronautical Fusion Reacotr**
 
-- 🤝 Looking to collaborate on Science Communication, Game Development, and Foreign Intelligence Secrets (i swear I won't tell anyone)
+- 🤝 Looking to collaborate on: **Science Communication, Game Development, and Foreign Intelligence Secrets** (i swear I won't tell anyone)
 
 - 💬 Chat with me about: **Fusion, Astronautics, Software, Science Communication**
 
