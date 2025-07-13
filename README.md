@@ -15,25 +15,27 @@
   I'm Logan Tanner, a junior software engineer, nuclear fusion engineering student, and science communication
   content creator on all your favorite social media platforms. I have a deep love and appreciation for 
   combining analytical thinking with emotional intuition to create unique experiences, solving complex
-  problems, and continuing on the never endnign journey of education. My long term goals are centered on 
+  problems, and continuing on the never ending journey of education. My long term goals are centered on 
   clean, cost efficient energy to under developed communities, automating heavy industry in astronautical 
-  environments, and to increase the quality of life, for all life.
+  environments, and increasing the quality of life, for all life.
 </p>
 
-- 👷‍♂️ Currently building: **Optimal Encounters Pokedex**
+- 👷‍♂️ Currently building: **Mage Dynamics Landing Page && 24/7 Twitch Lecture Tools && A Better Relationship With Myself**
 
-- 🧠 Currently learning: **Chemistry, Calculus, Front End Web Development**
+- 🧠 Fall Semester Classes: **Quantum Computing, Intro to Plasmas and Fusion, Physics: Waves, Heat, Optics**
 
-- 🔨 Building next: **Portfolio Website || Life UI**
+- 🔨 Building next: **Lectures: Algebra, Chemistry, Physics && Untitled Satirical Math Textbook && Astronautical Fusion Reacotr**
 
-- 🤝 Looking to collaborate on projects, from engineering to content 
+- 🤝 Looking to collaborate on Science Communication, Game Development, and Foreign Intelligence Secrets (i swear I won't tell anyone)
 
 - 💬 Chat with me about: **Fusion, Astronautics, Software, Science Communication**
 
 <p align="left">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools</h2>
+
+<h3 align="left">Web</h3>
 <p align="left">
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img 
@@ -79,58 +81,14 @@
       height="auto" 
     />
   </a>
-  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" 
-      alt="SQLite" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
-      alt="C++" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
-      alt="Python" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
+</p>
+
+<h3 align="left"><b><del>propaganda</del></b> multi-media edutainment</h3>
+<p align="left">
   <a href="https://www.unrealengine.com/en-US" target="_blank" rel="noreferrer">
     <img 
       src="https://www.nicepng.com/png/full/321-3211558_unreal-logo-png-for-kids-unreal-engine-icon.png" 
       alt="Unreal Engine" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
-  <a href="https://octave.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" 
-      alt="Octave" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1005px-Matlab_Logo.png" 
-      alt="MATLAB" 
-      width="40" 
-      height="auto" 
-    />
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img 
-      src="https://clipground.com/images/latex-png-10.png" 
-      alt="LaTeX" 
       width="40" 
       height="auto" 
     />
@@ -160,14 +118,74 @@
       height="auto" 
     />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+</p>
+
+
+
+<h3 align="left">STEM</h3>
+<p align="left">
+  <a href="https://octave.org/" target="_blank" rel="noreferrer">
     <img 
-      src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" 
-      alt="Visual Studio Code" 
+      src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" 
+      alt="Octave" 
       width="40" 
       height="auto" 
     />
   </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/1005px-Matlab_Logo.png" 
+      alt="MATLAB" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://clipground.com/images/latex-png-10.png" 
+      alt="LaTeX" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+</p>
+
+<h3 align="left">Misc.</h3>
+<p align="left">
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" 
+      alt="C++" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" 
+      alt="Python" 
+      width="40" 
+      height="auto" 
+    />
+  </a>
+</p>
+
+
+<h3 align="left">Databases</h3>
+<p align="left">
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+    <img 
+      src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg" 
+      alt="SQLite" 
+      width="40" 
+      height="auto" 
+    />
+  </a>  
+</p>
+
+
+<h3 align="left">Editor <b>(i use neovim btw)</b></h3>
+<p align="left">
   <a href="https://neovim.io/" target="_blank" rel="noreferrer">
     <img 
       src="https://raw.githubusercontent.com/github/explore/26674e638508ac4a4e113ee32d6755ebfa000569/topics/neovim/neovim.png" 
@@ -176,8 +194,6 @@
       height="auto" 
     />
   </a>
-  
-  
 </p>
 
 
